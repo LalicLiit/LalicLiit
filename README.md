@@ -1,4 +1,4 @@
-Name: Franchesca Villareal Culalic /n
+Name: Franchesca Villareal Culalic \n
 Birthday: October 24, 2001
 Year/Course: Bachelor of Science in Information Technology specialized in Web and Mobile Developemet, 4th year
 School: Bulacan State University 
